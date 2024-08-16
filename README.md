@@ -13,6 +13,8 @@ The collected data is processed to identify the most frequently mentioned techno
 ### Visualization:
 The project generates a graph that displays the top 30 technologies, providing a visual representation of the most in-demand skills for Python developers.
 
+### Project Image:
+![Main](images/main.png)
 
 ## Installation
 
